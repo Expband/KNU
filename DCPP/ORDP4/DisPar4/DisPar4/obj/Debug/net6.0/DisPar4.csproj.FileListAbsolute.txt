@@ -1,0 +1,15 @@
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\bin\Debug\net6.0\DisPar4.exe
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\bin\Debug\net6.0\DisPar4.deps.json
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\bin\Debug\net6.0\DisPar4.runtimeconfig.json
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\bin\Debug\net6.0\DisPar4.dll
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\bin\Debug\net6.0\DisPar4.pdb
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.csproj.AssemblyReference.cache
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.AssemblyInfoInputs.cache
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.AssemblyInfo.cs
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.dll
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\refint\DisPar4.dll
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.pdb
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\DisPar4.genruntimeconfig.cache
+C:\Users\sonia\Desktop\ORDP4\DisPar4\DisPar4\obj\Debug\net6.0\ref\DisPar4.dll

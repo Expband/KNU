@@ -1,0 +1,62 @@
+.CarListEntity{
+    margin: 0 auto;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+
+.ImageMainList{
+    border-radius: 10px 0 0 10px;
+    height: 266px;
+    width: 400px;
+}
+
+.CarInfo{
+    padding: 15px;
+    border-radius: 0 10px 10px 0;
+    background-color: aliceblue;
+}
+
+.CarInfo , .CarImage {
+    width: fit-content;
+}
+
+.CarInfoLines{
+    padding: 0;
+    list-style-type: none;
+}
+
+.NumberPlateContainer{
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+
+.NumberPlateInfo{
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+
+.NumberFlag{
+    height: 12px;
+    width: 18px;
+}
+
+.NumberWithFlag{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 0;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.NumberPlateValue{
+    margin-bottom: 0;
+}
+
+.NumberFlag{
+    margin: 0 5px 0 0;
+    background: linear-gradient(to bottom , rgb(0, 102, 255) 50%, yellow 50%);
+}

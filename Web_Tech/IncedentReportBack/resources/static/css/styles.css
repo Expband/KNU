@@ -1,0 +1,151 @@
+.body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  padding: 40px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffffff;
+  margin: 0 auto;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* main conten of index*/
+.ImagesReports {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.img1,
+.img2 {
+  margin: 64px 100px 124px 100px;
+  height: 238px;
+  width: 376px;
+}
+.Annotation {
+  margin: 0 0 100px 60px;
+}
+.AnnotationParagraph {
+  margin: 0 0 0 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.AddButton,
+.ListButton{
+    margin-top: 54px;
+    margin-left: 54px;
+    width: 300px;
+}
+/* main conten for add incedent */
+.MainContentListIncedent,
+.MainContenAddList{
+  width: 1200px;
+}
+.inputFnLname{
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 100px 0px 0px 100px;
+}
+.Lname{
+  padding: 0;
+  margin: 0 0 0 100px;
+}
+#Description{
+  resize: none;
+  height: 120px;
+}
+.PhotoNDescription{
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 64px 0px 0px 100px;
+}
+.PhotoArea{
+  margin-left: 100px;
+}
+.Coordinates{
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 64px 0px 0px 100px;
+}
+.Coordinates{
+  margin-left: 100px;
+}
+.SubmitButton{
+  margin: 64px 0 100px 300px;
+}
+/* side bar */
+.sideBar {
+  width: 380px;
+  background-color: black;
+}
+.btn{
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+/* main content of list of incident */
+.Incedent{
+  width: 900px;
+}
+.Image{
+  margin: 0 0 0 40px;
+}
+.Image,
+.IncedentPhoto{
+  width: 224px;
+  height: 148px;
+}
+.Coordinates,
+.TextPhoto,
+.PhotoName,
+.Name,
+.Coordinates{
+  display: flex;
+  flex-direction: row;
+}
+.IncedentLat
+.IncedentLan{
+  margin: 0;
+  padding: 0;
+}
+.Coordinates{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.lan,
+.lat{
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+.Name{
+  margin: 20px 40px 0 50px;
+}
+.Name,
+.IncedentAnnotatin{
+  display: flex;
+  flex-direction: column;
+}
+.IncedentAnnotatin{
+  margin: 20px 40px 0 0;
+}
+.Coordinates{
+  margin: 20px 0 0 100px;
+}
+.IncedentParagraph{
+  margin: 0;
+  padding: 0;
+}
+.Topic{
+  margin: 20px 0 0 20px;
+}
+.TextPhoto{
+  margin: 20px 0 20px 0;
+}
+

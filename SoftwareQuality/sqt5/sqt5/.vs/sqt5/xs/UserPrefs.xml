@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{94E567F4-B6BB-4EB7-ACC9-95689F9E399C}|Default">
+  <MonoDevelop.Ide.ItemProperties.sqt5 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqt5/Calculator.cs">
+    <Files>
+      <File FileName="sqt5/Program.cs" Line="6" Column="6" />
+      <File FileName="sqt5/Calculator.cs" Line="33" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sqt5" expanded="True">
+            <Node name="sqt5" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
