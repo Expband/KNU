@@ -1,8 +1,0 @@
-C:\Users\sonia\source\repos\ORDP1\ORDP1\obj\Debug\ORDP1.csproj.AssemblyReference.cache
-C:\Users\sonia\source\repos\ORDP1\ORDP1\obj\Debug\ORDP1.csproj.SuggestedBindingRedirects.cache
-C:\Users\sonia\source\repos\ORDP1\ORDP1\obj\Debug\ORDP1.csproj.CoreCompileInputs.cache
-C:\Users\sonia\source\repos\ORDP1\ORDP1\bin\Debug\ORDP1.exe.config
-C:\Users\sonia\source\repos\ORDP1\ORDP1\bin\Debug\ORDP1.exe
-C:\Users\sonia\source\repos\ORDP1\ORDP1\bin\Debug\ORDP1.pdb
-C:\Users\sonia\source\repos\ORDP1\ORDP1\obj\Debug\ORDP1.exe
-C:\Users\sonia\source\repos\ORDP1\ORDP1\obj\Debug\ORDP1.pdb

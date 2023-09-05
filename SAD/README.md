@@ -1,2 +1,0 @@
-# SAD
-Internship for coursework 

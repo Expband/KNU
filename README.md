@@ -1,2 +1,0 @@
-# KNU
-Main university repository

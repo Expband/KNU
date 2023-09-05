@@ -1,1 +1,0 @@
-https://github.com/tchagau/Introduction-to-Data-Science-in-Python/blob/main/Assignment_1/assignment1.ipynb
