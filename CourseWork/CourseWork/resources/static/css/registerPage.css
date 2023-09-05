@@ -1,0 +1,62 @@
+.RegisterForm{
+    width: 40%;
+    margin: 0 auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+}
+
+.InputField{
+    width: fit-content;
+    display: flex;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.InputPhoneNumberRegister{
+    margin-bottom: 40px;
+}
+
+.InputLabel1{
+    color: white;
+    margin: 15% 0 8px 0;
+}
+
+.InputLabel{
+    color: white; 
+}
+
+.SubmitRegistration{
+    width: fit-content;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.RegistrationRedirecktion{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.IsOwner{
+    width: 20px;
+    height: 20px;
+}
+
+.IsStationOwner{
+    margin: 0 0 15% 0;
+}
+
+.IsUserLabel{
+    color: white;
+}
+
+.LoginFieldForm, .PasswordFieldForm ,
+.FirstNameFieldForm , .LastNameFieldForm ,
+.PhoneNumberFieldForm{
+    border-radius: 10px;
+}
+
+.RegistrationText{
+    color: white;
+    margin: 0 0 35% 0;
+    padding-bottom: 10%;
+}

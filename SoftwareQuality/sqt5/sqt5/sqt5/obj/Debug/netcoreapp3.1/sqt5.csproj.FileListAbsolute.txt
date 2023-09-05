@@ -1,0 +1,13 @@
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/bin/Debug/netcoreapp3.1/sqt5.deps.json
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/bin/Debug/netcoreapp3.1/sqt5.runtimeconfig.json
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/bin/Debug/netcoreapp3.1/sqt5.runtimeconfig.dev.json
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/bin/Debug/netcoreapp3.1/sqt5.dll
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/bin/Debug/netcoreapp3.1/sqt5.pdb
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.AssemblyInfo.cs
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.dll
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.pdb
+/Users/macbook/Desktop/sqt5/sqt5/sqt5/obj/Debug/netcoreapp3.1/sqt5.genruntimeconfig.cache

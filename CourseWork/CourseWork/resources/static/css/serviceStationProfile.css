@@ -1,0 +1,57 @@
+.ServiceStationInfo{
+    background-color: rgb(110, 126, 140);
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ServiceStationFields{
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 20px 0 20px 0;
+}
+
+.ServiceStationImage, .ServiceStationFields
+.ServiceStationName, .ServiceStationDescription,
+.DescriptionStation, .ServiceStationTags,
+.ServiceStationDescriptionAndFields{
+    width: fit-content;
+}
+
+.ServiceStationImage{
+    margin: 0 5% 0 0;
+}
+.Image{
+    height: 266px;
+    border-radius: 10px;
+}
+
+.ServiceStationName{
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.ServiceStationTags{
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.Tag{
+    padding: 3%;
+    background-color: darkgrey;
+    border-radius: 10px;
+    margin: 0 0 0 10%;
+}
+
+#tag1{
+    margin: 0 0 0 0;
+}
+
+.CarListOnStation{
+    margin: 20px 0 20px 0;
+    padding: 0 0 20px 0;
+}

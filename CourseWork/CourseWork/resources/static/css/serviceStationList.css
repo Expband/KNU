@@ -1,0 +1,26 @@
+.ServiceStationEntity{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.StationInfo{
+    width: 650px;
+    height: fit-content;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.ServiseInfo{
+    background-color: aliceblue;
+    border-radius: 0 10px 10px 0;
+    padding: 15px;
+}
+
+.ServiceStationTitle{
+    margin: 0 0 16px 0;
+}
+
+.Image{
+    height: 266px;
+    border-radius: 10px 0 0 10px;
+}
