@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\maksym_mishak_c.props" />
+</Project>

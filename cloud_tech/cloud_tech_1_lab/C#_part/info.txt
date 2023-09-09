@@ -1,0 +1,2 @@
+created C# site link: https://mishak-c-app.azurewebsites.net/
+guide link: https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net70&pivots=development-environment-vs

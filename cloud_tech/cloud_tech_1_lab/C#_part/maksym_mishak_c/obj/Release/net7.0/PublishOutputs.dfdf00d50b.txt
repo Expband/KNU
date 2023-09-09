@@ -1,0 +1,7 @@
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\maksym_mishak_c.exe
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\maksym_mishak_c.dll
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\maksym_mishak_c.deps.json
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\maksym_mishak_c.runtimeconfig.json
+D:\projects\KNU\cloud_tech\cloud_tech_1_lab\C#_part\maksym_mishak_c\obj\Release\net7.0\PubTmp\Out\maksym_mishak_c.pdb

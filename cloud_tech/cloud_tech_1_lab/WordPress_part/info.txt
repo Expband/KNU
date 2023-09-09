@@ -1,0 +1,2 @@
+created WordPress site link: https://mishak-maksym-wp-app.azurewebsites.net/
+guide link: https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress
