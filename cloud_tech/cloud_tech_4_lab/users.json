@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "login": "dsad",
+      "password": "dsadas",
+      "name": "sdada"
+    },
+    {
+      "id": 3,
+      "login": "dsad",
+      "password": "dsadas",
+      "name": "sdada"
+    },
+    {
+      "id": 4,
+      "login": "dsad",
+      "password": "dsadas",
+      "name": "sdada"
+    }
+  ]
+}
